@@ -37,3 +37,8 @@ Change it in docker-compose.yml under --NotebookApp.token='your-new-token'.
 ## License
 
 MIT (feel free to use for any project).
+
+## AI snapshot
+
+`repomix-output.txt` is an auto-generated, LLM-friendly bundle of the whole repo.  
+Regenerate: `npm install -g repomix && repomix`
